@@ -6,4 +6,5 @@ print(ab.count('ra'))
 x = input('')
 if x[:] == x[-1:]:
     print('dkhiwogp')
+print("new line")
 
